@@ -36,3 +36,4 @@ def jogar_adivinhar_numero():
 
 # Chama a função para iniciar o jogo
 jogar_adivinhar_numero()
+print('bem vindo')
